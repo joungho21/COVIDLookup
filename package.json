@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Tereflech17/COVIDLookup/issues"
   },
-  "homepage": "https://github.com/Tereflech17/COVIDLookup#readme"
+  "homepage": "https://github.com/Tereflech17/COVIDLookup#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4"
+  }
 }
